@@ -1,3 +1,8 @@
+scheduler_events = {
+    "hourly": [
+        "live_flight_monitor.api.flight_sync.sync_flight_statuses"
+    ]
+}
 app_name = "live_flight_monitor"
 app_title = "Live Flight Monitor"
 app_publisher = "Gautami"
