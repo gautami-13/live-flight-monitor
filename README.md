@@ -177,16 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](license.txt) 
 - [Aviation Stack API](https://aviationstack.com/) for real-time flight data
 - Survesh Pvt. Ltd. for project guidance and support
 
-## 📸 Screenshots
-
-### Flight Dashboard
-*Coming soon - Add screenshot of your main dashboard*
-
-### Flight Details View
-*Coming soon - Add screenshot of flight details page*
-
-### Search & Filter
-*Coming soon - Add screenshot of search functionality*
 
 ---
 
